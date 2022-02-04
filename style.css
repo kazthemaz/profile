@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background-color: #BBF2D0;
+  font-size: 20px;
+  font-family: 'Supermercado One', cursive;
+  color: #3B322C;
+  line-height: 20px;
+  position: relative;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+  border-radius: 60%;
+  height: 200px ;
+  filter: drop-shadow(10px 10px 10px #31D871)
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+#job-title {
+  font-size: 25px
+}
+
+#intro-line {
+  font-size: 40px
+}
+
+.header {
+  width: 350px;
+  margin: 0 auto;
+  margin-bottom: 17px;
+  border-radius: 32px;
+  background-color: #BBF2D0;
+  padding: 12px;
+  box-shadow: 2px 2px 2px grey ;
+
+}
+
+#top-card {
+  background-color: #89D586;
+  border-radius: 21px;
+  margin-top: 14px;
+  height: 465px;
+  width: 616px;
+  margin: 0 auto;
+}
+
+#bottom-card {
+  background-color: #379634;
+  border-radius: 21px;
+  width: 318px;
+  margin: 0 auto;
+}
+
+/* height: 100px; */
+
+#bling {
+  position: absolute;
+  top: 100px;
+  right: 400px;
+}
+
+#peace {
+  position: absolute;
+  left: 400px;
+  top: 100px;
+}
